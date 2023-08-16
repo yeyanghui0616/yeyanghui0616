@@ -7,7 +7,6 @@
 - 💻 I use daily: **.js**, **.ts**, **.vue**,  **.vite**
 - 📖 I am reading Carnegie's Art of Communication
 - 💬 Talk to me about basketball, billiards, js, ts, vue
-- 👯 We can connect to play some games of Chess ♟
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
